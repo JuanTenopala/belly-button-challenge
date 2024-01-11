@@ -11,7 +11,7 @@ Complete the following steps:
 
   - Use otu_ids as the labels for the bar chart.
 
-   -Use otu_labels as the hovertext for the chart
+  - Use otu_labels as the hovertext for the chart
 
 3- Create a bubble chart that displays each sample.
 
